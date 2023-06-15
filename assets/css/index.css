@@ -296,7 +296,7 @@ header {
 	height: 36px;
 	outline: none;
 	border-radius: 0px;
-	position: absolute;
+	position: relative;
 	right: 30px;
 	top: 20px;
 }
